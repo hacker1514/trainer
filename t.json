@@ -1,0 +1,17 @@
+{
+        "name":"Trainer",
+        "short_name":"Trainer",
+        "display":"fullscreen",
+        "theme":"#000000",
+        "background_color":"#000000",
+        "start_url":"./k.html",
+        "icons":
+                [
+                        {
+                        "src":"t.png",
+                        "type":"image/png",
+                        "sizes":"192 x 192"
+                        }
+                ]
+
+}
